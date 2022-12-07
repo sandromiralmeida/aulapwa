@@ -1,0 +1,21 @@
+{
+  "name": "CTec App",
+  "short_name": "CTec",
+  "start_url": "index.php",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffd31d",
+  "background_color": "#333",
+  "display": "standalone"
+}
